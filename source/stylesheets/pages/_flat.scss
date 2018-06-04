@@ -1,0 +1,53 @@
+.header-flat {
+  background-color: white;
+  border-bottom: 1px solid lightgrey;
+}
+
+.flat-description {
+  background-color: #F5F5F5;
+  border-bottom: 1px solid lightgrey;
+}
+
+.list-unstyled {
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+
+.header-flat-details {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.header-flat-owner {
+
+  padding-right: 20px;
+}
+
+.header-flat-owner p {
+  font-size: 15px;
+}
+
+.header-flat-name h1 {
+  font-size: 20px;
+}
+
+.header-flat-name p {
+  font-size: 15px;
+}
+
+#flat-description h2 {
+  margin-top:50px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+#flat-description p {
+  font-size: 15px;
+}
+
+.ole {
+  margin: 20px 0px;
+  background-color: #F5F5F5;
+  padding-bottom: 15px;
+}
